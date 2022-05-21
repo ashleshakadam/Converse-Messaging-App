@@ -1,0 +1,2 @@
+# Converse-Messaging-App
+Converse, is an instant messaging chat application, developed using, Python, HTML, JavaScript and Shell. The project mostly leverages socket programming and multi-thread processing techniques. The chat functionality lets users create personal accounts from where they will send messages to other chat apps users. A server is setup to handle user requests to connect and exchange messages in real-time.
