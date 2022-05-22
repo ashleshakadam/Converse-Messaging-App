@@ -23,4 +23,4 @@ To clear the message history simply delete the `messages.db` file.
 
 ## Old Message Server
 
-I created a custom message server using Python sockets, before implementing socketio for this project. 'old msg server/' has the necessary code.
+I created a custom message server using Python sockets, before implementing socketio for this project. 'old_msg_server/' has the necessary code.
